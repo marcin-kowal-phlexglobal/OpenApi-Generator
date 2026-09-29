@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <GenerateNetSdkFromOpenApiScriptPath>$(MSBuildThisFileDirectory)..\contentFiles\any\any\scripts\GenerateNetSdkFromOpenApi.ps1</GenerateNetSdkFromOpenApiScriptPath>
+  </PropertyGroup>
+</Project>
